@@ -1,0 +1,18 @@
+﻿<Window x:Name="WindowResultados" x:Class="WpfAgendaUsandoBD.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAgendaUsandoBD"
+        mc:Ignorable="d"
+        Title="Resultados" Height="512" Width="800">
+    <Grid Margin="0,0,0,22">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="97*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="tabelaResultado" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="15,86,39,120" Grid.Column="1"/>
+        <Label x:Name="labelTitulo" Content="Agenda de contatos" HorizontalAlignment="Left" Margin="274,23,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="1"/>
+
+    </Grid>
+</Window>

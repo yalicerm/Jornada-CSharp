@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|c:\\faculdade\\arqquivos 2026-2\\poo2\\poo-exercicios\\cofrinho\\cofrinhocode\\control\\cofrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:control\\cofrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|c:\\faculdade\\arqquivos 2026-2\\poo2\\poo-exercicios\\cofrinho\\cofrinhocode\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|c:\\faculdade\\arqquivos 2026-2\\poo2\\poo-exercicios\\cofrinho\\cofrinhocode\\model\\cofrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:model\\cofrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|c:\\faculdade\\arqquivos 2026-2\\poo2\\poo-exercicios\\cofrinho\\cofrinhocode\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|c:\\faculdade\\arqquivos 2026-2\\poo2\\poo-exercicios\\cofrinho\\cofrinhocode\\control\\outroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:control\\outroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5315A1F-C14D-6B35-BD8D-0074F4294007}|CofrinhoCode.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cofrinho.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\Model\\Cofrinho.cs",
+              "RelativeDocumentMoniker": "Model\\Cofrinho.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\Model\\Cofrinho.cs",
+              "RelativeToolTip": "Model\\Cofrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T03:13:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutrosController.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\Control\\OutrosController.cs",
+              "RelativeDocumentMoniker": "Control\\OutrosController.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\Control\\OutrosController.cs",
+              "RelativeToolTip": "Control\\OutrosController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:59:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form2.cs",
+              "RelativeDocumentMoniker": "View\\Form2.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form2.cs",
+              "RelativeToolTip": "View\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:08:39.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form2.cs",
+              "RelativeDocumentMoniker": "View\\Form2.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form2.cs [Projeto]",
+              "RelativeToolTip": "View\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:05:08.127Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CofrinhoController.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\Control\\CofrinhoController.cs",
+              "RelativeDocumentMoniker": "Control\\CofrinhoController.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\Control\\CofrinhoController.cs",
+              "RelativeToolTip": "Control\\CofrinhoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:27:12.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "View\\Form1.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form1.cs",
+              "RelativeToolTip": "View\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T00:02:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "View\\Form1.cs",
+              "ToolTip": "C:\\Faculdade\\Arqquivos 2026-2\\POO2\\POO-EXERCICIOS\\Cofrinho\\CofrinhoCode\\View\\Form1.cs [Projeto]",
+              "RelativeToolTip": "View\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:58:35.464Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

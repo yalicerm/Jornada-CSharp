@@ -1,0 +1,4 @@
+C:\Faculdade\FACULDADE - 2026\Arqquivos 2026-2\POO2\Repositório-Jornada-C\Jornada-C-\BD\Controle-De-Despesas\ControleDespesas\obj\Debug\net10.0-windows\View\App.g.cs
+C:\Faculdade\FACULDADE - 2026\Arqquivos 2026-2\POO2\Repositório-Jornada-C\Jornada-C-\BD\Controle-De-Despesas\ControleDespesas\obj\Debug\net10.0-windows\View\MainWindow.g.cs
+C:\Faculdade\FACULDADE - 2026\Arqquivos 2026-2\POO2\Repositório-Jornada-C\Jornada-C-\BD\Controle-De-Despesas\ControleDespesas\obj\Debug\net10.0-windows\ControleDespesas_MarkupCompile.cache
+C:\Faculdade\FACULDADE - 2026\Arqquivos 2026-2\POO2\Repositório-Jornada-C\Jornada-C-\BD\Controle-De-Despesas\ControleDespesas\obj\Debug\net10.0-windows\ControleDespesas_MarkupCompile.lref

@@ -1,0 +1,6 @@
+C:\Faculdade\Arqquivos 2026-2\POO2\POO-EXERCICIOS\UVVkedin_forms\obj\Debug\net10.0-windows\UVVkedin_forms.RedeAmigos.resources
+C:\Faculdade\Arqquivos 2026-2\POO2\POO-EXERCICIOS\UVVkedin_forms\obj\Debug\net10.0-windows\UVVkedin_forms.csproj.GenerateResource.cache
+C:\Faculdade\Arqquivos 2026-2\POO2\POO-EXERCICIOS\UVVkedin_forms\obj\Debug\net10.0-windows\UVVkedin_forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Arqquivos 2026-2\POO2\POO-EXERCICIOS\UVVkedin_forms\obj\Debug\net10.0-windows\UVVkedin_forms.AssemblyInfoInputs.cache
+C:\Faculdade\Arqquivos 2026-2\POO2\POO-EXERCICIOS\UVVkedin_forms\obj\Debug\net10.0-windows\UVVkedin_forms.AssemblyInfo.cs
+C:\Faculdade\Arqquivos 2026-2\POO2\POO-EXERCICIOS\UVVkedin_forms\obj\Debug\net10.0-windows\UVVkedin_forms.csproj.CoreCompileInputs.cache
