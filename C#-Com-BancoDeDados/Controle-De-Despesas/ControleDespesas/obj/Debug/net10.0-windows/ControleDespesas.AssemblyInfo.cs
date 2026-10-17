@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleDespesas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67a301c26b211e3b90d4329378d5dcdf74a7186c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ddecaae247e52116abc411610c83cd401b233bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleDespesas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleDespesas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

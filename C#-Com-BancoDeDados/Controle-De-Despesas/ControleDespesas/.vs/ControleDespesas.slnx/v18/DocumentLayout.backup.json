@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\",
+  "WorkspaceRootPath": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0268F7B-EB18-4F6D-9C82-1B6852079E87}|ControleDespesas.csproj|c:\\faculdade\\faculdade - 2026\\arqquivos 2026-2\\poo2\\reposit\u00F3rio-jornada-c\\jornada-c-\\bd\\controle-de-despesas\\controledespesas\\bd\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0268F7B-EB18-4F6D-9C82-1B6852079E87}|ControleDespesas.csproj|solutionrelative:bd\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|c:\\faculdade\\projetos-faculdade\\csharprepository\\jornada-csharp\\c#-com-bancodedados\\controle-de-despesas\\controledespesas\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0268F7B-EB18-4F6D-9C82-1B6852079E87}|ControleDespesas.csproj|c:\\faculdade\\faculdade - 2026\\arqquivos 2026-2\\poo2\\reposit\u00F3rio-jornada-c\\jornada-c-\\bd\\controle-de-despesas\\controledespesas\\model\\despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0268F7B-EB18-4F6D-9C82-1B6852079E87}|ControleDespesas.csproj|solutionrelative:model\\despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|c:\\faculdade\\projetos-faculdade\\csharprepository\\jornada-csharp\\c#-com-bancodedados\\controle-de-despesas\\controledespesas\\model\\despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|solutionrelative:model\\despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0268F7B-EB18-4F6D-9C82-1B6852079E87}|ControleDespesas.csproj|c:\\faculdade\\faculdade - 2026\\arqquivos 2026-2\\poo2\\reposit\u00F3rio-jornada-c\\jornada-c-\\bd\\controle-de-despesas\\controledespesas\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F0268F7B-EB18-4F6D-9C82-1B6852079E87}|ControleDespesas.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|c:\\faculdade\\projetos-faculdade\\csharprepository\\jornada-csharp\\c#-com-bancodedados\\controle-de-despesas\\controledespesas\\control\\controldespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|solutionrelative:control\\controldespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|c:\\faculdade\\projetos-faculdade\\csharprepository\\jornada-csharp\\c#-com-bancodedados\\controle-de-despesas\\controledespesas\\bd\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|solutionrelative:bd\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|c:\\faculdade\\projetos-faculdade\\csharprepository\\jornada-csharp\\c#-com-bancodedados\\controle-de-despesas\\controledespesas\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBCA4D8-13B6-5C27-172C-483B03E06EF1}|ControleDespesas.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +30,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\BD\\Repository.cs",
-              "RelativeDocumentMoniker": "BD\\Repository.cs",
-              "ToolTip": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\BD\\Repository.cs",
-              "RelativeToolTip": "BD\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T03:50:27.281Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ControlDespesa.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\Control\\ControlDespesa.cs",
+              "RelativeDocumentMoniker": "Control\\ControlDespesa.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\Control\\ControlDespesa.cs",
+              "RelativeToolTip": "Control\\ControlDespesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T04:29:51.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\BD\\Repository.cs",
+              "RelativeDocumentMoniker": "BD\\Repository.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\BD\\Repository.cs",
+              "RelativeToolTip": "BD\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T04:29:13.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T04:28:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\View\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml",
-              "ToolTip": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\View\\MainWindow.xaml",
               "RelativeToolTip": "View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-15T03:50:10.584Z",
@@ -53,22 +95,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Despesas.cs",
-              "DocumentMoniker": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\Model\\Despesas.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\Model\\Despesas.cs",
               "RelativeDocumentMoniker": "Model\\Despesas.cs",
-              "ToolTip": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Reposit\u00F3rio-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\Model\\Despesas.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\Model\\Despesas.cs",
               "RelativeToolTip": "Model\\Despesas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T03:49:37.897Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         },
