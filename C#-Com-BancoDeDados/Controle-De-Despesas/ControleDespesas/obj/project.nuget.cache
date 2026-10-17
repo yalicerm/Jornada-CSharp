@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ToJxhtraFHA=",
+  "dgSpecHash": "6QYlf9oUGeU=",
   "success": true,
-  "projectFilePath": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Repositório-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\ControleDespesas.csproj",
+  "projectFilePath": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\ControleDespesas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arese\\.nuget\\packages\\microsoft.data.sqlite\\10.0.13\\microsoft.data.sqlite.10.0.13.nupkg.sha512",
     "C:\\Users\\arese\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.13\\microsoft.data.sqlite.core.10.0.13.nupkg.sha512",

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ControleDespesas.BD
 {
-    internal class Repository
+    public class Repository
     {
+
     }
 }

@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Repositório-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\ControleDespesas.csproj",
+      "projectUniqueName": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\ControleDespesas.csproj",
       "projectName": "ControleDespesas",
-      "projectPath": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Repositório-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\ControleDespesas.csproj",
+      "projectPath": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\ControleDespesas.csproj",
       "packagesPath": "C:\\Users\\arese\\.nuget\\packages\\",
-      "outputPath": "C:\\Faculdade\\FACULDADE - 2026\\Arqquivos 2026-2\\POO2\\Repositório-Jornada-C\\Jornada-C-\\BD\\Controle-De-Despesas\\ControleDespesas\\obj\\",
+      "outputPath": "C:\\Faculdade\\Projetos-Faculdade\\CSharpRepository\\Jornada-CSharp\\C#-Com-BancoDeDados\\Controle-De-Despesas\\ControleDespesas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
