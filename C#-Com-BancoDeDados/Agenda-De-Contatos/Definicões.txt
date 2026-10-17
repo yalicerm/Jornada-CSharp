@@ -1,0 +1,61 @@
+Sistema de Agenda de Contatos 📖
+
+Aplicativo Desktop desenvolvido para gerenciamento de contatos, construído com foco em consolidação de conceitos de acesso a banco de dados relacional e manipulação de interfaces gráficas.
+
+🛠 Tecnologias Utilizadas
+
+Linguagem: C# (.NET)
+
+Interface Gráfica: WPF (Windows Presentation Foundation)
+
+Banco de Dados: MySQL (Abordagem Database-First via MySQL Workbench)
+
+Acesso a Dados: Biblioteca oficial MySql.Data.MySqlClient
+
+🏗 Arquitetura e Estrutura do Projeto
+
+Conexão Segura: Lógica de banco de dados isolada em uma classe dedicada (ConexaoBD), responsável por fornecer e gerenciar a string de conexão.
+
+Views Separadas: As interfaces visuais estão organizadas em pastas (ex: MainTela, TelaResultados), separando a tela principal de cadastro/busca da tela de exibição completa.
+
+Gerenciamento de Recursos: Uso extensivo da declaração using do C# nas classes MySqlConnection, MySqlCommand, MySqlDataReader e MySqlDataAdapter para garantir o fechamento automático das conexões e liberação de memória em tempo real.
+
+🗄 Estrutura do Banco de Dados
+
+O sistema utiliza um banco de dados local com uma tabela principal chamada contatos.
+
+Tabela: contatos
+
+id (INT, Primary Key, Auto Increment)
+
+nome (VARCHAR, Not Null)
+
+email (VARCHAR, Not Null)
+
+telefone (VARCHAR, Not Null)
+
+⚙️ Funcionalidades Implementadas
+
+Cadastro de Contatos (INSERT):
+
+Captura de dados via TextBox.
+
+Validação preventiva (impede salvar registros com campos totalmente em branco ou compostos apenas por espaços).
+
+Prevenção contra SQL Injection utilizando parâmetros (@nome, @telefone, @email).
+
+Busca Avançada (SELECT com LIKE):
+
+Pesquisa de contatos a partir de fragmentos do número de telefone.
+
+Utilização do MySqlDataReader para alta performance na leitura linha a linha.
+
+Exibição dos resultados mapeados dinamicamente para colunas de um ListView estruturado com GridView.
+
+Exibição Completa de Agenda:
+
+Janela dedicada (WindowResultado) acessada via navegação de telas.
+
+Carregamento automático no momento em que a janela é aberta.
+
+Utilização de MySqlDataAdapter para preencher um DataTable em memória, alimentando um componente DataGrid de visualização apenas leitura (IsReadOnly="True").

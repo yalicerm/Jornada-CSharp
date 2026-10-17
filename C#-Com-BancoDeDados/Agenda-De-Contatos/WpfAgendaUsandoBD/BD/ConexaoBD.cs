@@ -9,7 +9,7 @@ namespace WpfAgendaUsandoBD.BD
 {
     public class ConexaoBD
     {
-        private readonly string stringConexao = "server=localhost;database=agendabd;user=root;password=01092005";
+        private readonly string stringConexao = "server=*****;database=*******;user=*******;password=*******";
 
         public MySqlConnection ObterConexao()
         {
